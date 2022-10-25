@@ -9,7 +9,13 @@ The Data consists of .json files with the full scripts of all Star Trek series p
 Structure:
 
 ```json
-allserieslines = {seriesname:{episode number:{character:alllines}}}
+allserieslines = { 
+                  seriesname : 
+                    {episode number : 
+                        {character : alllines
+                        }
+                    }
+                  }
 ```
 e.g.
 
