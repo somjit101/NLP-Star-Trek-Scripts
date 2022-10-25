@@ -47,4 +47,8 @@ So, to count the no. of lines for each character, we simply count the number of 
 ### Question 2. Who is the most verbose?
 This basically means we are interested in the character who utters the most number of words. So we count the no. of words of each character.
 
+Again, plotting a bar graph of each character and the number of words uttered in the whole series in descending order, we obtain:
 
+![Line_Counts](plots/words_counts.png)
+
+### Hence, SISKO is the most verbose character
