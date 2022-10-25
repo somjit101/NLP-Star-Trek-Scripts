@@ -205,3 +205,16 @@ More info about LDA in the [original paper](http://www.jmlr.org/papers/volume3/b
 | ODO        | Intellect, Spaceship |
 | QUARK      | Emotions, Feelings |
 | DAX        | Actions, Spaceship Commands |
+
+
+## Question 5. Do one more thing with the data that is interesting to you!
+
+### Let us investigate the simialrities between the **Main Characters** in the series based on their dialogues and how these similarities **change over seasons**. A close observation of the results would reveal the influence the characters have on each over time in the Star Trek universe, which in my opinion, is a very interesting insight. 
+
+#### We have used the [Sentence BERT](https://www.sbert.net/) (Pre-trained Transformer Network - RoBERTa Large) model to encode sentences into 1024-dimensional embedded vectors.
+
+### Plotting Season-wise Similarity Matrices between the Main Characters
+
+#### Season 1
+
+<!-- ![S1](plots/word_counts.png) -->
