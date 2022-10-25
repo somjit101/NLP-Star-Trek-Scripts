@@ -49,6 +49,6 @@ This basically means we are interested in the character who utters the most numb
 
 Again, plotting a bar graph of each character and the number of words uttered in the whole series in descending order, we obtain:
 
-![Word_Counts](plots/words_counts.png)
+![Word_Counts](plots/word_counts.png)
 
 ### Hence, SISKO is the most verbose character
