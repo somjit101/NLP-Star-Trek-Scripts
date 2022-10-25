@@ -34,4 +34,4 @@ A little bit of preliminary observation and browsing shows that 'DS9' has the le
 
 So, to count the no. of lines for each character, we simply count the number of entries of each character across all episodes.
 
-![Line Counts](plot images/line_counts.png)
+![Line_Counts](plots/line_counts.png)
