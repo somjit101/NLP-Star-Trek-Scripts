@@ -32,6 +32,19 @@ A little bit of preliminary observation and browsing shows that 'DS9' has the le
 
 ### Question 1. Who has the most lines? Who are the top 5?
 
-So, to count the no. of lines for each character, we simply count the number of entries of each character across all episodes.
+So, to count the no. of lines for each character, we simply count the number of entries of each character across all episodes. If we arrange them in descending order of the number of lines, and plot a bar graph, we get: 
 
 ![Line_Counts](plots/line_counts.png)
+
+### Hence, we see that the top 5 characters with the most lines are :
+1. SSKO
+2. KIRA
+3. BASHIR
+4. O'BRIEN
+5. ODO
+
+
+### Question 2. Who is the most verbose?
+This basically means we are interested in the character who utters the most number of words. So we count the no. of words of each character.
+
+
