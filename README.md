@@ -242,3 +242,15 @@ More info about LDA in the [original paper](http://www.jmlr.org/papers/volume3/b
 #### Season 7
 
 ![S7](plots/similarity7.png)
+
+
+### Conclusions
+
+#### As we can observe from the heatmap of the similarity matrices for the main characters, the similarities are lower in the first season, signifying that the characters are new and unbiased and not influenced by the others. But with increasing seasons, we notice a gradual shift towards **higher similarities** between the characters, with Season 4 and Season 5 showing significantly higher average similarities. This indicates that the characters themselves begins to influence the scriptwriting as the show progresses. 
+
+#### This is an interesting observation.
+
+#### Lastly, the last season, i.e. **Season 7** shows an abnormally high degree of similarity between the characters, except DAX. This could be due to the following reasons:
+- Since we do not have the episode scripts from the last 3 episodes, our embeddings of the dialogues are not as accurate.
+- Less participation of the main characters during the last season, i.e. some dying off, eliminated, outcast etc. 
+- The entirety of Season 7 focusing on a limited set of plot concepts, causing heavy similarities between the dialogues of the main characters. 
