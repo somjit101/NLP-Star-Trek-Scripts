@@ -217,4 +217,28 @@ More info about LDA in the [original paper](http://www.jmlr.org/papers/volume3/b
 
 #### Season 1
 
-<!-- ![S1](plots/word_counts.png) -->
+![S1](plots/similarity1.png)
+
+#### Season 2
+
+![S2](plots/similarity2.png)
+
+#### Season 3
+
+![S3](plots/similarity3.png)
+
+#### Season 4
+
+![S4](plots/similarity4.png)
+
+#### Season 5
+
+![S5](plots/similarity5.png)
+
+#### Season 6
+
+![S6](plots/similarity6.png)
+
+#### Season 7
+
+![S7](plots/similarity7.png)
