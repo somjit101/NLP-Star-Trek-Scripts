@@ -254,3 +254,9 @@ More info about LDA in the [original paper](http://www.jmlr.org/papers/volume3/b
 - Since we do not have the episode scripts from the last 3 episodes, our embeddings of the dialogues are not as accurate.
 - Less participation of the main characters during the last season, i.e. some dying off, eliminated, outcast etc. 
 - The entirety of Season 7 focusing on a limited set of plot concepts, causing heavy similarities between the dialogues of the main characters. 
+
+## Question 6. If you had more time, what would you do with this data?
+
+### If I had more time, I would try to model the interactions between some of the important characters in the show by finding out the top supporting characters each of them share scenes with, most frequently. Building a **connected graph** of these scene associations with the characters being vertices and the strengths of the edges being proportional to the screen time shared between any 2 of them, would allow deeper understanding of the substructures of the different scenes, settings and moods of the movie in conjunction with the topics covered by each character. 
+
+### Understanding these structures in the Character Interaction Graph would be like knowing the fundamental premises of the series without actually watching it !
